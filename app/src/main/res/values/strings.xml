@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">FirstActivity</string>
+    <string name="ac1Title">Activity 1</string>
+    <string name="ac1no1">Number 1 :</string>
+    <string name="ac1no2">Number 2 :</string>
+    <string name="button1">OK</string>
+    <string name="ac2Title">Activity 2</string>
+    <string name="ac2value">Result</string>
+    <string name="ac2Button1">+</string>
+    <string name="ac2Button2">-</string>
+    <string name="ac2Button3">*</string>
+    <string name="ac2Button4">/</string>
+</resources>
